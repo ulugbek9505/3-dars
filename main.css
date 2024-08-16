@@ -1,0 +1,53 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.div{
+    margin-left: 150px;
+}
+.dip{
+    margin-left: -70px;
+}
+.ota{
+margin-left: 650px;
+margin-top: 70px;
+}
+.card1{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    text-align: center;
+}
+.card{
+    display: flex;
+    gap: 300px;
+}
+.card1>h3{
+    padding-top: 60px;
+    color: white;
+    font-size: 55px;
+    
+}
+.card2{
+    background-color: red;
+    width:400px;
+    height: 300px;
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+    font-size: 55px;
+}
+.card2>h3{
+    padding-top: 50px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 150px;
+}
